@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ika1009
 - 👀 I’m interested in computer programming.
-- 🌱 I’m currently learning C# and C++
+- 🌱 I’m currently learning C# and JavaScript
 - 💞️ I’m looking to collaborate on any job for experience
 - 📫 How to reach me - on mail: ilija.doncic@yahoo.com
 
