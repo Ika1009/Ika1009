@@ -32,9 +32,6 @@ Here is my email: doncic.ilija1009@gmail.com
 ## 📈 Stats
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Ika1009)
-![My github stats](https://github-readme-stats.vercel.app/api?username=Alahaspa)
-![My github stats](https://github-readme-stats.vercel.app/api?username=Dzekanaa)
-![My github stats](https://github-readme-stats.vercel.app/api?username=milosmitrovic20)
 
 Remember, programming isn't about what you know; it's about what you can figure out. 🚀
 
